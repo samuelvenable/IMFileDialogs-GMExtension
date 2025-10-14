@@ -49,9 +49,9 @@ EnvironmentSetVariable("IMGUI_TEXT_COLOR_2", string(1));
 EnvironmentSetVariable("IMGUI_HEAD_COLOR_0", string(0.35));
 EnvironmentSetVariable("IMGUI_HEAD_COLOR_1", string(0.55));
 EnvironmentSetVariable("IMGUI_HEAD_COLOR_2", string(0.55));
-EnvironmentSetVariable("IMGUI_AREA_COLOR_0", string(0.05));
-EnvironmentSetVariable("IMGUI_AREA_COLOR_1", string(0.05));
-EnvironmentSetVariable("IMGUI_AREA_COLOR_2", string(0.05));
+EnvironmentSetVariable("IMGUI_AREA_COLOR_0", string(0.18));
+EnvironmentSetVariable("IMGUI_AREA_COLOR_1", string(0.18));
+EnvironmentSetVariable("IMGUI_AREA_COLOR_2", string(0.18));
 EnvironmentSetVariable("IMGUI_BODY_COLOR_0", string(1));
 EnvironmentSetVariable("IMGUI_BODY_COLOR_1", string(1));
 EnvironmentSetVariable("IMGUI_BODY_COLOR_2", string(1));
@@ -231,6 +231,4 @@ working_directory + string_lower("fonts/157-NotoSansHK-Regular.otf"));
 */
 #endregion
 
-
 nDialogId = 0;
-
