@@ -24,9 +24,6 @@ DialogSetLocaleToAmericanEnglish();
 //DialogSetLocaleToSimplifiedChinese();
 //DialogSetLocaleToBrazilianPortuguese();
 
-// Set Parent Window ID for Dialogs
-EnvironmentSetVariable("IMGUI_DIALOG_PARENT", WindowIdFromNativeWindow(window_handle()));
-
 // Set Window Size for Dialogs
 DialogSetWindowSize(720, 424);
 
